@@ -28,7 +28,16 @@ including warning the offender or expulsion from community.
 If you are being harassed, notice that someone else is being harassed, or have any other concerns,
 please contact an admin immediately.
 
-[TODO: how to identify admins?]
+Here's here you can find the list of the admins:
+
+- Facebook Page, you can contact the admins by sending a message to the page here:
+    https://www.facebook.com/pyconitalia
+- Facebook Group, you can see the up to date list here:
+    https://www.facebook.com/groups/487126911410653/admins/
+- Telegram: in the list of the member of the group you can identify the admins by
+    looking if they have an __admin__ badge on the right.
+
+[TODO: YouTube: email? Other channels?]
 
 We expect all the users to follow these rules on any online presence of Python Italia
 
