@@ -20,6 +20,9 @@ physical appearance, body size, race, religion, sexual images in public spaces, 
 stalking, following, harassing photography or recording, sustained disruption of talks or other events,
 inappropriate physical contact, and unwelcome sexual attention.
 
+Any content or activity featuring, encouraging, or soliciting illegal activity (for example sharing
+pirated content) is prohibited.
+
 People asked to stop any harassing behavior are expected to comply immediately.
 
 If someone engages in harassing behavior, the admins may take any action they deem appropriate,
