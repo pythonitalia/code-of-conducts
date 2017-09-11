@@ -40,11 +40,10 @@ Here's here you can find the list of the admins:
 - Telegram: in the list of the member of the group you can identify the admins by
     looking if they have an __admin__ badge on the right.
 
-[TODO: YouTube: email? Other channels?]
 
 We expect all the users to follow these rules on any online presence of Python Italia
 
-Shall you need a personal private conversation with the admin, please contact
+Shall you need a personal private conversation with the admin or you can't find the right contacts for a specific online presence of Python Italia, please contact
 one of the following people:
 
 Francesca Zerlotti [mailto:francesca@python.it](francesca@python.it)
