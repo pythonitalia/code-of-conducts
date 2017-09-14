@@ -30,7 +30,7 @@ tenuti a conformarsi immediatamente.
 Se un partecipante intraprende un comportamento molesto, gli amministratori della community possono prendere qualsiasi misura ritengano opportuna, compreso diffidare il trasgressore o l'espulsione dalla community.
 
 Se vieni molestato/a, noti che qualcun altro/a viene molestato/a, o hai qualsiasi altra
-preoccupazione, contatta immediatamente un amministrato della community.
+preoccupazione, contatta immediatamente un amministratore della community.
 
 Qui puoi trovare una lista degli amministratori per le varie community Python Italia:
 
