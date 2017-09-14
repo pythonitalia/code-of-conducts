@@ -1,11 +1,10 @@
 # CODICE DI CONDOTTA
 
-Tutti i delegati, relatori, espositori e volontari di PyCon Italia sono tenuti ad attenersi al seguente codice di condotta. Gli organizzatori sono tenuti a far
-rispettare questo codice nelle varie presenze online di Python Italia.
+Tutti gli amministratori e membri di qualsiasi community ufficiale di Python Italia sono tenuti ad attenersi al seguente codice di condotta. Gli amministratori sono tenuti a far rispettare questo codice nelle varie presenze online di Python Italia.
 
 ## In breve
 
-L'associazione **Python Italia** è dedicata a crea una community senza molestie
+L'associazione **Python Italia** è dedicata a creare una community senza molestie
 per tutti, indipendentemente da genere, orientamento sessuale, disabilità, aspetto fisico, dimensione corporea, razza o religione.
 Non tolleriamo molestie ai membri della community in qualsiasi forma.
 Linguaggio e immagini sessuali non sono appropriate per qualsiasi ambito della
