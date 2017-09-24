@@ -48,5 +48,7 @@ Matteo Benci [mailto:matteo@python.it](matteo@python.it)
 These are public phone numbers that you might find useful during your staying in Italy:
 
 Police Emergency: +39-113
+
 Medical Emergency: +39-118
+
 Taxi in Florence: +39-055-4242

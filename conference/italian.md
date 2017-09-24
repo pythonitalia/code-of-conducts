@@ -58,5 +58,7 @@ Ecco alcuni numeri pubblici di telefono che potreste trovare utili durante il
 vostro soggiorno in Italia:
 
 Emergenza di Polizia: +39-113
+
 Emergenza Medica: +39-118
+
 Taxi a Firenze : +39-055-4242
