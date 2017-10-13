@@ -7,9 +7,9 @@ Tutti gli amministratori e membri di qualsiasi community ufficiale di Python Ita
 L'associazione **Python Italia** è dedicata a creare una community senza molestie
 per tutti, indipendentemente da genere, orientamento sessuale, disabilità, aspetto fisico, dimensione corporea, razza o religione.
 Non tolleriamo molestie ai membri della community in qualsiasi forma.
-Linguaggio e immagini sessuali non sono appropriate per qualsiasi ambito della
-conferenza, compresi le presentazioni.
-I partecipanti alla conferenza che violano queste regole possono essere sanzionati o
+Linguaggio e immagini sessuali non sono appropriate in qualsiasi ambito della
+community.
+I partecipanti che violano queste regole possono essere sanzionati o
 espulsi dalla community (bannati) a discrezione degli amministratori della community.
 
 ## Versione lunga
@@ -19,6 +19,8 @@ disabilità, aspetto fisico, dimensione corporea, razza, religione, immagini ses
 spazi pubblici, intimidazioni intenzionali, stalking, inseguimenti, fotografie o
 registrazioni moleste, interruzione continuata di presentazioni o altri eventi,
 contatto fisico inappropriato e attenzioni sessuali sgradite.
+
+Non è consentito un linguaggio blasfemo.
 
 Tutti i contenuti che invogliano, contengono o generano attività illegali (come
 condividere materiale privato) sono vietati.

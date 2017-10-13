@@ -20,6 +20,8 @@ physical appearance, body size, race, religion, sexual images in public spaces, 
 stalking, following, harassing photography or recording, sustained disruption of talks or other events,
 inappropriate physical contact, and unwelcome sexual attention.
 
+Blasphemous language is not allowed.
+
 Any content or activity featuring, encouraging, or soliciting illegal activity (for example sharing
 pirated content) is prohibited.
 
