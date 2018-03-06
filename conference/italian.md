@@ -51,12 +51,14 @@ conferenza e durante gli eventi sociali collegati alla conferenza.
 Doveste aver bisogno di parlare privatamente con gli organizzatori, prima o durante
 PyCon Italia, contattate una delle seguenti persone :
 
-Francesca Zerlotti [mailto:francesca@python.it](francesca@python.it)
-Matteo Benci [mailto:matteo@python.it](matteo@python.it)
+Francesca Zerlotti [francesca@python.it](mailto:francesca@python.it)
+Matteo Benci [matteo@python.it](mailto:matteo@python.it)
 
 Ecco alcuni numeri pubblici di telefono che potreste trovare utili durante il
 vostro soggiorno in Italia:
 
 Emergenza di Polizia: +39-113
+
 Emergenza Medica: +39-118
+
 Taxi a Firenze : +39-055-4242

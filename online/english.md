@@ -20,6 +20,8 @@ physical appearance, body size, race, religion, sexual images in public spaces, 
 stalking, following, harassing photography or recording, sustained disruption of talks or other events,
 inappropriate physical contact, and unwelcome sexual attention.
 
+Blasphemous language is not allowed.
+
 Any content or activity featuring, encouraging, or soliciting illegal activity (for example sharing
 pirated content) is prohibited.
 
@@ -46,5 +48,5 @@ We expect all the users to follow these rules on any online presence of Python I
 Shall you need a personal private conversation with the admin or you can't find the right contacts for a specific online presence of Python Italia, please contact
 one of the following people:
 
-Francesca Zerlotti [mailto:francesca@python.it](francesca@python.it)
-Matteo Benci [mailto:matteo@python.it](matteo@python.it)
+Francesca Zerlotti [francesca@python.it](mailto:francesca@python.it)
+Matteo Benci [matteo@python.it](mailto:matteo@python.it)

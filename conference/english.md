@@ -42,11 +42,13 @@ We expect participants to follow these rules at all conference venues and confer
 Shall you need a personal private conversation with the organizers, either before or during
 PyCon Italy, please contact one of the following people:
 
-Francesca Zerlotti [mailto:francesca@python.it](francesca@python.it)
-Matteo Benci [mailto:matteo@python.it](matteo@python.it)
+Francesca Zerlotti [francesca@python.it](mailto:francesca@python.it)
+Matteo Benci [matteo@python.it](mailto:matteo@python.it)
 
 These are public phone numbers that you might find useful during your staying in Italy:
 
 Police Emergency: +39-113
+
 Medical Emergency: +39-118
+
 Taxi in Florence: +39-055-4242

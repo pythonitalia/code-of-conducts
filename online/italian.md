@@ -1,16 +1,15 @@
 # CODICE DI CONDOTTA
 
-Tutti i delegati, relatori, espositori e volontari di PyCon Italia sono tenuti ad attenersi al seguente codice di condotta. Gli organizzatori sono tenuti a far
-rispettare questo codice nelle varie presenze online di Python Italia.
+Tutti gli amministratori e membri di qualsiasi community ufficiale di Python Italia sono tenuti ad attenersi al seguente codice di condotta. Gli amministratori sono tenuti a far rispettare questo codice nelle varie presenze online di Python Italia.
 
 ## In breve
 
-L'associazione **Python Italia** è dedicata a crea una community senza molestie
+L'associazione **Python Italia** è dedicata a creare una community senza molestie
 per tutti, indipendentemente da genere, orientamento sessuale, disabilità, aspetto fisico, dimensione corporea, razza o religione.
 Non tolleriamo molestie ai membri della community in qualsiasi forma.
-Linguaggio e immagini sessuali non sono appropriate per qualsiasi ambito della
-conferenza, compresi le presentazioni.
-I partecipanti alla conferenza che violano queste regole possono essere sanzionati o
+Linguaggio e immagini sessuali non sono appropriate in qualsiasi ambito della
+community.
+I partecipanti che violano queste regole possono essere sanzionati o
 espulsi dalla community (bannati) a discrezione degli amministratori della community.
 
 ## Versione lunga
@@ -31,7 +30,7 @@ tenuti a conformarsi immediatamente.
 Se un partecipante intraprende un comportamento molesto, gli amministratori della community possono prendere qualsiasi misura ritengano opportuna, compreso diffidare il trasgressore o l'espulsione dalla community.
 
 Se vieni molestato/a, noti che qualcun altro/a viene molestato/a, o hai qualsiasi altra
-preoccupazione, contatta immediatamente un amministrato della community.
+preoccupazione, contatta immediatamente un amministratore della community.
 
 Qui puoi trovare una lista degli amministratori per le varie community Python Italia:
 
@@ -47,5 +46,5 @@ Python Italia.
 
 Doveste aver bisogno di parlare privatamente con gli organizzatori, contattate una delle seguenti persone:
 
-Francesca Zerlotti [mailto:francesca@python.it](francesca@python.it)
-Matteo Benci [mailto:matteo@python.it](matteo@python.it)
+Francesca Zerlotti [francesca@python.it](mailto:francesca@python.it)
+Matteo Benci [matteo@python.it](mailto:matteo@python.it)
