@@ -20,8 +20,6 @@ spazi pubblici, intimidazioni intenzionali, stalking, inseguimenti, fotografie o
 registrazioni moleste, interruzione continuata di presentazioni o altri eventi,
 contatto fisico inappropriato e attenzioni sessuali sgradite.
 
-Non è consentito un linguaggio blasfemo.
-
 Tutti i contenuti che invogliano, contengono o generano attività illegali (come
 condividere materiale privato) sono vietati.
 
