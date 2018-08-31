@@ -1,6 +1,6 @@
 # CODICE DI CONDOTTA
 
-Tutti i delegati, relatori, espositori e volontari di PyCon Italia sono tenuti ad atteners
+Tutti i delegati, relatori, espositori e volontari di PyCon Italia sono tenuti ad attenersi
 al seguente codice di condotta. Gli organizzatori faranno rispettare questo codice durante
 tutta la manifestazione.
 
